@@ -8,11 +8,10 @@ It contains few modules - forms, tabs, a timer that shows the end of the super d
 - HTML
 - CSS
 
-
 ## Tools: 
 - gulp
 
-### Screenshots:
+## Screenshots:
 
 ![](https://github.com/novak-k/window-app/blob/master/screenshots/1.png)
 ![](https://github.com/novak-k/window-app/blob/master/screenshots/2.png)
@@ -21,4 +20,6 @@ It contains few modules - forms, tabs, a timer that shows the end of the super d
 ![](https://github.com/novak-k/window-app/blob/master/screenshots/5.png)
 ![](https://github.com/novak-k/window-app/blob/master/screenshots/6.png)
 
-### Sertificate Udemy: 
+## Sertificate Udemy: 
+
+![] (https://github.com/novak-k/window-app/blob/master/sertificate/certificate%20Udemy%20(JS%2C%20React).jpg)

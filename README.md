@@ -22,4 +22,4 @@ It contains few modules - forms, tabs, a timer that shows the end of the super d
 
 ## Sertificate Udemy: 
 
-![] (https://github.com/novak-k/window-app/blob/master/sertificate/certificate_Udemy.jpg)
+![](https://github.com/novak-k/window-app/blob/master/sertificate/certificate_Udemy.jpg)
